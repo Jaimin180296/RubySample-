@@ -1,7 +1,7 @@
-print "Hello"
+puts "Hello"
 
-==begin
+=begin
     
-this is my comment over here 
-    
-==end
+#this is my comment over here 
+
+=end
